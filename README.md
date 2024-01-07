@@ -3,4 +3,5 @@ This is the my CLI Based Calculator  PIAIC Assigments
 Start
 npm install
 
-Start node index
+Start 
+node index
